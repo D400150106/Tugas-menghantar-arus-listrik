@@ -1,0 +1,80 @@
+1
+
+Raw Blame History
+# tugas-01-analog-basic-circuit
+menacri nilai resistivitas bahan metal
+Berdasarkan eksperimen yang dilakukan, Ohm merumuskan bahwa hambatan R kawat logam berbanding lurus de
+berbanding terbalik dengan luas penampang lintang kawat A, dan bergantung kepada jenis bahan tersebut.
+R = ρl/A
+dengan:
+R = hambatan kawat penghantar (Ω)
+l = panjang kawat penghantar (m)
+A = luas penampang lintang penghantar (m2)
+ρ = hambatan jenis kawat penghantar (Ω.m)
+Konstanta pembanding ρ disebut hambatan jenis (resistivitas). Hambatan jenis kawat berbeda-beda tergan
+ berarti kalau kita hendak mencari nilai resistivitas suatu bahan metal yaitu dengan menggunakan rumus
+ dengan ρl = R/A maka kita dapat menetukan nilai resistivitas bahan metal yang kita inginkan.
+  METODE PERCOBAAN (dengan pengukuran)
+Pada percobaan hambatan jenis kawat ini diperlukan bahan dan peralatan seperti
+1 rol kawat nikrom dan kawat tembaga, 6 buah kabel penghubung, 2 buah papan rangkaian,
+1 buah amperemeter, 1 buah volt meter, 1 buah micrometer sekrup, dan sebuah power supplay.
+Adapun rumusan hipotesis percobaan kali ini yaitu nilai hambatan jenis kawat (r) adalah tetap,
+dan tidak dipengaruhi oleh panjang kawat, diameter kawat, tegangan dan kuat arusnya, namun hal
+itu bergantung pada jenis kawat yang digunakan.
+ada percobaan kali ini menggunakan dua jenis kawat yaitu nikrom dan tembaga.
+Adapun identifikasi dan definisi operasional variabel pada percobaan ini yaitu
+Kegiatan I menggunakan kawat Nikrom, variabel manipulasi yang digunakan adalah
+panjang kawat (L) 44 cm, 28,5 cm, 14 cm. Variabel kontrolnya adalah jenis kawat (r),
+diameter kawat (d), amperemeter, voltmeter, sumber tegangan, dan luas penampang (A),
+yaitu dengan menetapkan jenis kawat (nikrom), diameter kawat, amperemeter, voltmeter,
+sumber tegangan sebesar 3 volt, dan luas penampang kawat. Dan variabel yang direspon
+adalah tegangan (V) dan kuat arus (I), yaitu dengan mengukur tegangan V menggunakan
+voltmeter dan kuat arus I dengan amperemeter. Sedangkan pada Kegiatan II menggunakan
+kawat tembaga, variabel manipulasi yang digunakan juga panjang kawat, yaitu mengubah
+-ubah panjang kawat sebesar 44 cm, 28,5 cm, 14 cm. Dengan variabel kontrol jenis kawat
+(r), diameter kawat (d), amperemeter, voltmeter, sumber tegangan, dan luas penampang (A)
+, yaitu dengan menetapkan jenis kawat (nikrom), diameter kawat, amperemeter, voltmeter,
+sumber tegangan sebesar 3 volt, dan luas penampang kawat. Dan variabel yang direspon
+adalah tegangan (V) dan kuat arus (I), yaitu dengan mengukur tegangan V menggunakan
+voltmeter dan kuat arus I dengan amperemeter.
+Adapun prosedur kerja pada percobaan ini, pada kegiatan I yaitu menggunakan kawat nikrom, pertama-tama
+.Yang kemudian menghubungi pembimbing untuk memeriksa rangkaian tersebut. Jika sudah benar, selanjutny
+supplay pada tegangan 3 volt, selanjutnya mengamati penunjuk arus pada amperemeter dan tegangan pada v
+dengan panjang tertentu (L tertentu ; L = jarak B-C). Kemudian menggeser letak C (mengubah panjang L),
+kembali kuat arus dan tengangan antara ujung kawat dengan panjang L tersebut sehingga diperoleh minima
+Selanjutnya mengukur diameter penampang kawat menggunakan micrometer sekrup untuk mencari  nilai luas
+mencatat hasil pengukuran pada tabel 1 . Setelah diperoleh data dengan tiga kali mengubah panjang kawa
+langkah yang sama pada kegiatan II dengan menggunakan kawat tembaga. Kemudian mencatat hasil pengukura
+Setelah diperoleh tabel data percobaan, selanjutnya menghitung hambatan jenis kawat menggunakan persam
+Tabel 1. Menggunakan kawat nikrom
+NO                          1        2       3
+(L±0,05) ×10-3 meter        44,00    28,50   14,00
+(D±0,01)×10-3 meter         0,31     0,31    0,31
+(V±0,05) volt               2,80     2,80    2,80
+(I±0,05) ×10-5 ampere       2,00     2,00    2,00
+Tabel 2. Menggunakan kawat Tembaga
+NO                          1       2      3
+(L±0,05) ×10-3 meter        44,00   28,50  14,00
+(D±0,01)×10-3 meter         0,33    0,33   0,33
+(V±0,05) volt               2,80    2,60   2,60
+(I±0,05) ×10-5 ampere       2,00    2,00   2,00
+    Bardasarkan data tersebut dapat diperoleh hambatan jenis kawat menggunakan persamaan 3 dan mengitu
+Pada kegiatan I yaitu menggunakan kawat nikrom. Pada percobaan pertama telah diperoleh hambatan jenis
+dengan kesalahan relatif sebesar 10,85 % sehingga diperoleh 89,15 %. Pada percobaan kedua diperoleh ha
+dengan kesalahan relatif sebesar 10,91 % sehingga derajat keercayaannya sebesar 89,09 %. Dan pada perc
+sebesar (0,80±0,08)10-1 Wm, dengan kesalahan relatif sebesar 11 % sehingga derajat kepercayaannya sebe
+kawat tembaga. Pada percobaan pertama telah diperoleh nilai hambatan jenis sebesar (0,27±0,02)10-1 Wm,
+sehingga derajat kepercayaannya sebesar 89,54 %. Pada percobaan kedua telah diperoleh hambatan jenis s
+relatif 10,65 % sehingga derajat kepercayaannya sebesar 89,55 %. Dan pada percobaan ketiga diperoleh h
+dengan kesalahan relatifnya sebesar 10,8 % sehingga derajat kepercayaannya sebesar 89,2 %.
+    Berdasarkan hasil percobaan tersebut nilai hambatan kawat nikrom dan hambatan jenis kawat tembaga
+Seperti yang telah diketahui bahwa nilai teoritis hambatan jenis kawat nikrom adalah 100×10-8 Wm dan h
+Dapat dinyatakan bahwa percobaan kali ini masih belum berhasil, dan jika dilihat dari nilai rata-rata
+kawat nikrom sebesar 0,046 Wm dan pada kegiatan II menggunakan kawat tembaga sebesar 0,048 Wm, hasil t
+hambatan jenis kawat nikrom dan tembaga. Dalam hal ini dikarenakan kesalahan saat melakukan pratikum s
+kondisi alat seperti voltmeter dan amperemeter yang digunakan yang kurang baik, serta dipengaruhi oleh
+hasil pengukuran ataupun perhitungan.
+BAHAN      HAMBATAN JENIS(W.m)    KOEFISIEN SUHU DARI HAMBATAN JENIS a (K-1)
+Perak        1,62 × 10-6          4,1 × 10-3
+Tembaga      1,69 × 10-6          4,3 × 10-3
+Alumunium    2,75 × 10-6          4,4 × 10-3
